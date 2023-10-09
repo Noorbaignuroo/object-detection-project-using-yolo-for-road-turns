@@ -1,16 +1,16 @@
 # object-detection-project-using-yolo-for-road-turns
 Road Image Classification and Object Detection Project
-Overview
+# Overview
 This project focuses on road image analysis in Gilgit. It includes the collection of a dataset of road images, annotation, training a classifier for road conditions, and implementing the YOLO object detection model to locate and classify turns and unexpected road conditions.
 
-Project Structure
-Data Collection:
+# Project Structure
+#Data Collection:
 
 We gathered a dataset of road images in Gilgit, captured by students, with a minimum of 50 images per group.
 Each image is annotated and labeled with information about road conditions and turns.
 Data Preprocessing:
 
-Data augmentation techniques were applied to increase the dataset's diversity and improve model robustness.
+#Data augmentation techniques were applied to increase the dataset's diversity and improve model robustness.
 Classifier Training:
 
 We trained a classifier to categorize images into predefined classes: right turn, left turn, straight, and unexpected.
@@ -20,7 +20,7 @@ Object Detection:
 
 YOLO (You Only Look Once) object detection model was implemented to precisely locate and classify turns and unexpected road conditions in images.
 Training and evaluation of the YOLO model are detailed.
-Model Evaluation:
+#Model Evaluation:
 
 The performance of both the classifier and YOLO object detection model was evaluated using appropriate metrics.
 Results, including accuracy, precision, recall, and F1-score, are presented.
