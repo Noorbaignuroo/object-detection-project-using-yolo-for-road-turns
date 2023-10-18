@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20230918_143421_371.jpg</filename>
+	<path>E:\DATA SCIENCE AND AI\Object Detection Module 8\images\IMG_20230918_143421_371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>2697</ymin>
+			<xmax>2502</xmax>
+			<ymax>3354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1259</xmin>
+			<ymin>2633</ymin>
+			<xmax>1517</xmax>
+			<ymax>2747</ymax>
+		</bndbox>
+	</object>
+</annotation>

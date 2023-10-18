@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20230915_181339_878-01.jpeg.jpg</filename>
+	<path>E:\DATA SCIENCE AND AI\Object Detection Module 8\images\IMG_20230915_181339_878-01.jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right Turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>2575</ymin>
+			<xmax>2274</xmax>
+			<ymax>3475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2067</xmin>
+			<ymin>2540</ymin>
+			<xmax>2138</xmax>
+			<ymax>2825</ymax>
+		</bndbox>
+	</object>
+</annotation>
